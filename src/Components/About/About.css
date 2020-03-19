@@ -1,0 +1,9 @@
+.about {
+  margin: 0 auto;
+  width: 60%;
+  text-align: justify;
+}
+
+.about h2 {
+  margin-bottom: 20px;
+}
